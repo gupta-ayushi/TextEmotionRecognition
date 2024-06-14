@@ -10,10 +10,6 @@ https://emotionecho.onrender.com/
 Welcome to EmotionEcho, a text emotion recognition web app built using Streamlit and NLP. This tool analyzes text input and identifies the underlying emotions, providing insights into the emotional tone of the text.
 
 
-## Description
-Welcome to EmotionEcho, a text emotion recognition web app built using Streamlit and NLP. This tool analyzes text input and identifies the underlying emotions, providing insights into the emotional tone of the text.
-
-
 ## Features
 Real-time Emotion Analysis: Enter text and get instant feedback on the emotions detected.
 
