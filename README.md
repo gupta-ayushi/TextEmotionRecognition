@@ -19,5 +19,7 @@ User-friendly Interface: Simple and intuitive interface built with Streamlit for
 
 Visualization: Visual representation of emotion distribution in the input text.
 
+## Screenshot
+
 ![ss](https://github.com/gupta-ayushi/TextEmotionRecognition/assets/94676819/b49fa693-231e-42bf-86de-7aeca40b8a89)
 
